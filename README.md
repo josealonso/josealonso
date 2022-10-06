@@ -21,11 +21,12 @@
 - Solidity and EVM knowledge. Tooling: hardhat, wagmi, etc.
 - Java, Spring, SpringBoot, JPA/Hibernate.
 - Git, CVS.
-- Angular, React, Nextjs.
+- Angular, React, Nextjs. TailwindCSS, Mui, Chakra-UI.
 - Nodejs, Typescript (I don't like JavaScript without types).
 - Databases: MySQL, Postgres, MongoDB.
 - Other languages: C, C++, bash, Python (not advanced).
 - Docker.
+- Trello, Jira.
 
 
 <!-- ### Latest Blog Posts -->
