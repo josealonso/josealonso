@@ -6,9 +6,27 @@
 
 ### I’m currently working on
 
+- Improving my Solidity skills
+- Contributing to web3 projects
+- My upcoming blog
+
 ### 🌱 I’m currently learning
 
+- Solidity.
+- Advanced React and Nextjs.
+- Advanced Nodejs frameworks that are similar to the Java frameworks I have experience with, like SpringBoot.
+
 ### Technical Skills
+
+- Solidity and EVM knowledge. Tooling: hardhat, wagmi, etc.
+- Java, Spring, SpringBoot, JPA/Hibernate.
+- Git, CVS.
+- Angular, React, Nextjs.
+- Nodejs, Typescript (I don't like JavaScript without types).
+- Databases: MySQL, Postgres, MongoDB.
+- Other languages: C, C++, bash, Python (not advanced).
+- Docker.
+
 
 <!-- ### Latest Blog Posts -->
 
