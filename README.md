@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there, I'm JR 👋
+
+### I'm a Blockchain and Full-Stack Web Developer
+
+###  Connect with me
+
+### I’m currently working on
+
+### 🌱 I’m currently learning
+
+### Technical Skills
+
+<!-- ### Latest Blog Posts -->
 
 <!--
 **josealonso/josealonso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
