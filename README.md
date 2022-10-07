@@ -1,11 +1,17 @@
 ### Hi there, I'm JR 👋
 
-### I'm a Blockchain and Full-Stack Web Developer
+I'm a Blockchain and Full-Stack Web Developer
 
 ###  Connect with me
 
-- My [Linked profile](https://www.linkedin.com/in/joseramonalonsotapia/)
+- My [Linked profile](https://www.linkedin.com/in/joseramonalonsotapia/) 
 - My [Twitter profile](https://twitter.com/WComplu)
+
+  <!---  ![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?style=plastic&logo=twitter&logoColor=white) --->
+
+
+<!--- [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/WComplu.svg?style=social&label=Follow%20%40WComplu)](https://twitter.com/WComplu) --->
+
 
 ### I’m currently working on
 
