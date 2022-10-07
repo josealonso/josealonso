@@ -46,3 +46,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My [linked profile](https://www.linkedin.com/in/joseramonalonsotapia/)
+My [twitter profile](https://twitter.com/WComplu)
+
+
