@@ -4,6 +4,9 @@
 
 ###  Connect with me
 
+- My [Linked profile](https://www.linkedin.com/in/joseramonalonsotapia/)
+- My [Twitter profile](https://twitter.com/WComplu)
+
 ### I’m currently working on
 
 - Improving my Solidity skills
@@ -47,7 +50,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My [linked profile](https://www.linkedin.com/in/joseramonalonsotapia/)
-My [twitter profile](https://twitter.com/WComplu)
 
 
