@@ -12,7 +12,8 @@
 
 ### 🌱 I’m currently learning
 
-- Solidity.
+- Solidity. Used in Ethereum and EVM blockchains.
+- **Rust**. Used in Solana, Cosmos and Polkadot blockchains.
 - Advanced React and Nextjs.
 - Advanced Nodejs frameworks that are similar to the Java frameworks I have experience with, like SpringBoot.
 
