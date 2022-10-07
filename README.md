@@ -1,6 +1,8 @@
 ### Hi there, I'm JR 👋
 
 I'm a Blockchain and Full-Stack Web Developer
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=plastic&logo=Ethereum&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 
 ###  Connect with me
 
@@ -22,7 +24,7 @@ I'm a Blockchain and Full-Stack Web Developer
 ### 🌱 I’m currently learning
 
 - Solidity. Used in Ethereum and EVM blockchains.
-- **Rust**. Used in Solana, Cosmos and Polkadot blockchains.
+- **Rust**. Used in Solana, Cosmos and Polkadot blockchains. ![Polkadot](https://img.shields.io/badge/polkadot-E6007A?style=plastic&logo=polkadot&logoColor=white)
 - Advanced React and Nextjs.
 - Advanced Nodejs frameworks that are similar to the Java frameworks I have experience with, like SpringBoot.
 
