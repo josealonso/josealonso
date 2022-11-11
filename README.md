@@ -17,20 +17,18 @@ I'm a Blockchain and Full-Stack Web Developer
 
 ### I’m currently working on
 
-- Improving my Solidity skills
-- Contributing to web3 projects
-- My upcoming blog
+- Improving my web and Java Spring skills
+
 
 ### 🌱 I’m currently learning
 
 - Advanced **Java** techniques (**Spring Boot** unit testing, clean code, design patterns).
-- **Solidity**. Used in Ethereum and EVM blockchains.
 - **Rust**. Used in Solana, Cosmos and Polkadot blockchains. ![Polkadot](https://img.shields.io/badge/polkadot-E6007A?style=plastic&logo=polkadot&logoColor=white)
 - Advanced React and Nextjs.
 
 ### Technical Skills
 
-- Solidity and EVM knowledge. Tooling: hardhat, wagmi, etc.
+- Solidity and EVM knowledge. Tooling: hardhat, wagmi, etc. I contributed to some web3 projects.
 - Java, Spring, SpringBoot, JPA/Hibernate.
 - Git, CVS.
 - Angular, React, Nextjs. TailwindCSS, Mui, Chakra-UI.
