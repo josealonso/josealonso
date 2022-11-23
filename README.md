@@ -11,7 +11,7 @@ I'm a Blockchain and Full-Stack Web Developer
 
 - My [Linked profile](https://www.linkedin.com/in/joseramonalonsotapia/) 
 - My [Twitter profile](https://twitter.com/WComplu)
-- My ![Telegram profile](https://img.shields.io/badge/Telegram-2cb6e0?style=plastyc&logo=telegram&logoColor=white)
+- My ![Telegram profile](https://img.shields.io/badge/Telegram-2cb6e0?style=plastic&logo=telegram&logoColor=white)
 
   <!---  ![Twitter](https://img.shields.io/badge/twitter-%230077B5.svg?style=plastic&logo=twitter&logoColor=white) --->
 
@@ -26,15 +26,22 @@ I'm a Blockchain and Full-Stack Web Developer
 
 ### 🌱 I’m currently learning
 
-- Advanced **Java** techniques (**Spring Boot** unit testing, clean code, design patterns).
-- **Rust**. Used in Solana, Cosmos and Polkadot blockchains. ![Polkadot](https://img.shields.io/badge/polkadot-E6007A?style=plastic&logo=polkadot&logoColor=white)
+- Advanced **Java** techniques (**Spring Boot** unit and integration testing, clean code, design patterns).
 - Advanced React and Nextjs.
+- If time permits ---> - **Rust**. Used in a number of blockchains and in Linux kernel in the future. Other programming languages.
+![Rust](https://img.shields.io/badge/Rust-000000?plastic&logo=rust&logoColor=white)
 
 ### Technical Skills
 
 - Solidity and EVM knowledge. Tooling: hardhat, wagmi, etc. I contributed to some web3 projects.
 - Java, Spring, SpringBoot, JPA/Hibernate.
-- Git, CVS.
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=plastic&logo=spring-boot)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=Hibernate&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=plastic&logo=Swagger&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=plastic&logo=Stripe&logoColor=white)
+
+- Git, Subversion. ![Git](https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white)
 - Angular, React, Nextjs. TailwindCSS, Mui, Chakra-UI.
 ![Angular](https://img.shields.io/badge/Angular-C3002F?style=plastic&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/React-0AA1DD?style=plastic&logo=react&logoColor=white)
@@ -42,8 +49,13 @@ I'm a Blockchain and Full-Stack Web Developer
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white)
 
 - Nodejs, Typescript (I don't like JavaScript without types). ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=plastic&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)
 
 - Databases: MySQL, Postgres, MongoDB.
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=plastic&logo=postgresql&logoColor=white)
+![Mongo DB](https://img.shields.io/badge/MongoDB-4EA94B?style=plastic&logo=mongodb&logoColor=white)
+
 - Other languages: C, C++, bash, Python (not advanced).
 - Docker. ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=plastic&logo=docker&logoColor=white)
 - Trello, Jira.
