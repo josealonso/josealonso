@@ -10,6 +10,9 @@ I'm a Blockchain and Full-Stack **Java Spring** Web Developer
 
 ###  Connect with me
 
+- My [Email address](mailto:jose.alonso.programmer@gmail.com)
+![email address](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)
+
 - My [Github profile](https://github.com/josealonso/)
 ![github](https://img.shields.io/badge/GitHub-100000?style=plastic&logo=github&logoColor=white)
 
