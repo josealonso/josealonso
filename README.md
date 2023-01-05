@@ -38,7 +38,7 @@ I'm a Blockchain and Full-Stack **Java Spring** Web Developer
 
 ### 🌱 I’m currently learning
 
-- Advanced **Java** techniques (**Spring Boot** unit and integration testing, clean code, design patterns)
+- Advanced **Java** programming (**Spring** modules, design patterns, refactoring).
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=plastic&logo=spring-boot)
 
