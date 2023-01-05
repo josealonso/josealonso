@@ -33,7 +33,7 @@ I'm a Blockchain and Full-Stack **Java Spring** Web Developer
 
 ### I’m currently working on
 
-- Improving my web and Java Spring skills
+- Improving my web and Java Spring skills, especially regarding to microservices and the Spring framework.
 
 
 ### 🌱 I’m currently learning
@@ -42,14 +42,14 @@ I'm a Blockchain and Full-Stack **Java Spring** Web Developer
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=plastic&logo=spring-boot)
 
-- Advanced React and Nextjs.
+- Microservices development in the Java ecosystem.
 
 - If time permits ---> **Rust**. Used in a number of blockchains and in Linux kernel in the future. Other programming languages.
 ![Rust](https://img.shields.io/badge/Rust-000000?plastic&logo=rust&logoColor=white)
 
 ### Technical Skills
 
-- Java, Spring, SpringBoot, JPA/Hibernate
+- Java, Spring, SpringBoot, JPA/Hibernate and other Spring modules.
 ![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=plastic&logo=apachemaven&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=plastic&logo=spring-boot)
@@ -57,11 +57,6 @@ I'm a Blockchain and Full-Stack **Java Spring** Web Developer
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=plastic&logo=Swagger&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=plastic&logo=Stripe&logoColor=white)
 ![intellij-idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white)
-
-- Solidity and EVM knowledge. Tooling: hardhat, OpenZeppelin, wagmi. I contributed to some web3 projects
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=plastic&logo=Ethereum&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=plastic&logo=solidity&logoColor=black)
-![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=plastic)
 
 - Git, Subversion ![Git](https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white)
 - Angular, React, Nextjs. TailwindCSS, Mui, Chakra-UI
@@ -85,6 +80,11 @@ I'm a Blockchain and Full-Stack **Java Spring** Web Developer
 - Docker ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=plastic&logo=docker&logoColor=white)
 
 - Jenkins ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=plastic&logo=Jenkins&logoColor=white)
+
+- Solidity and EVM knowledge. Tooling: hardhat, OpenZeppelin, wagmi. I contributed to some web3 projects
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=plastic&logo=Ethereum&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-e6e6e6?style=plastic&logo=solidity&logoColor=black)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?logo=OpenZeppelin&logoColor=fff&style=plastic)
 
 - Deployment Tools: Vercel
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=plastic&logo=vercel&logoColor=white)
