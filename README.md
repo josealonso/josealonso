@@ -1,6 +1,6 @@
 ### Hi there, I'm JR 👋
 
-I'm a Blockchain and Full-Stack **Java Spring** Web Developer
+I'm a Programmer on the JVM (Java, Scala), mainly interested in clean code and functional programming.
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=plastic&logo=spring-boot)
@@ -33,10 +33,13 @@ I'm a Blockchain and Full-Stack **Java Spring** Web Developer
 
 ### I’m currently working on
 
-- Improving my web and Java Spring skills, especially regarding to microservices and the Spring framework.
+- Improving my web and Java Spring skills. Learning Scala and concepts on functional programming.
 
 
 ### 🌱 I’m currently learning
+
+- Scala
+![Scala](https://img.shields.io/badge/Scala-000000?plastic&logo=rust&logoColor=white)
 
 - Advanced **Java** programming (**Spring** modules, design patterns, refactoring).
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white)
