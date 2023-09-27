@@ -1,7 +1,8 @@
 ### Hi there, I'm JR 👋
 
-I'm a Programmer on the JVM (Java, Scala), mainly interested in clean code and functional programming.
+I'm a programmer on the JVM (Java, Scala), mainly interested in clean code and **functional programming**.
 
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=plastic&logo=scala&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=plastic&logo=spring-boot)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=plastic&logo=Ethereum&logoColor=white)
@@ -33,13 +34,13 @@ I'm a Programmer on the JVM (Java, Scala), mainly interested in clean code and f
 
 ### I’m currently working on
 
-- Improving my web and Java Spring skills. Learning Scala and concepts on functional programming.
+- Improving my web and Java Spring skills. 
 
 
 ### 🌱 I’m currently learning
 
-- Scala
-![Scala](https://img.shields.io/badge/Scala-000000?plastic&logo=rust&logoColor=white)
+- Scala and concepts on functional programming.
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=plastic&logo=scala&logoColor=white)
 
 - Advanced **Java** programming (**Spring** modules, design patterns, refactoring).
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white)
@@ -49,13 +50,14 @@ I'm a Programmer on the JVM (Java, Scala), mainly interested in clean code and f
 
 ### Technical Skills
 
-- Java, Spring, SpringBoot, JPA/Hibernate and other Spring modules.
+- Java, Scala, SpringBoot, JPA/Hibernate and other Spring modules.
 ![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=plastic&logo=apachemaven&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=plastic&logo=spring-boot)
+![Scala](https://img.shields.io/badge/Scala-DC322F?style=plastic&logo=scala&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=Hibernate&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=plastic&logo=Swagger&logoColor=white)
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=plastic&logo=Stripe&logoColor=white)
-![intellij-idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white)
+<!--- ![intellij-idea](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=plastic&logo=intellij-idea&logoColor=white) --->
 
 - Git, Subversion ![Git](https://img.shields.io/badge/GIT-E44C30?style=plastic&logo=git&logoColor=white)
 - Angular, React, Nextjs. TailwindCSS, Mui, Chakra-UI
