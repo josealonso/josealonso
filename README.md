@@ -47,14 +47,10 @@ I'm a Programmer on the JVM (Java, Scala), mainly interested in clean code and f
 
 - Microservices development in the Java ecosystem.
 
-- If time permits ---> **Rust**. Used in a number of blockchains and in Linux kernel in the future. Other programming languages.
-![Rust](https://img.shields.io/badge/Rust-000000?plastic&logo=rust&logoColor=white)
-
 ### Technical Skills
 
 - Java, Spring, SpringBoot, JPA/Hibernate and other Spring modules.
 ![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=plastic&logo=apachemaven&logoColor=white)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=plastic&logo=spring-boot)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=plastic&logo=Hibernate&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=plastic&logo=Swagger&logoColor=white)
