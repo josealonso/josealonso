@@ -1,6 +1,6 @@
 ### Hi there, I'm JR 👋
 
-I'm a programmer on the JVM (Java, **Scala**), mainly interested in clean code and **functional programming**.
+I'm a programmer on the JVM (Java, Scala, **Kotlin**), mainly interested in clean code and **functional programming**.
 
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=plastic&logo=scala&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
@@ -34,7 +34,7 @@ I'm a programmer on the JVM (Java, **Scala**), mainly interested in clean code a
 
 ### I’m currently working on
 
-- Improving my web and Scala/Java skills. 
+- Improving my web and Scala/Kotlin/Java skills. 
 
 
 ### 🌱 I’m currently learning
