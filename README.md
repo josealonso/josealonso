@@ -2,6 +2,7 @@
 
 I'm a programmer on the JVM (Java, Scala, **Kotlin**), mainly interested in clean code and **functional programming**.
 
+![Kotlin](https://img.shields.io/badge/Kotlin-DC322F?style=plastic&logo=kotlin&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=plastic&logo=scala&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=plastic&logo=spring-boot)
@@ -11,6 +12,8 @@ I'm a programmer on the JVM (Java, Scala, **Kotlin**), mainly interested in clea
 
 ###  Connect with me
 
+- My Web Page(https://programwithjr.com)
+  
 - My [Email address](mailto:jose.alonso.programmer@gmail.com)
 ![email address](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)
 
@@ -20,8 +23,8 @@ I'm a programmer on the JVM (Java, Scala, **Kotlin**), mainly interested in clea
 - My [Linked profile](https://www.linkedin.com/in/joseramonalonsotapia/) 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white)
 
-- My [Twitter profile](https://twitter.com/WComplu)
-![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white)
+<!---- My [Twitter profile](https://twitter.com/WComplu)
+![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=plastic&logo=twitter&logoColor=white) --->
 
 - My [Telegram profile](https://telegram.me/criptocomplu)
 ![Telegram](https://img.shields.io/badge/Telegram-2cb6e0?style=plastic&logo=telegram&logoColor=white)
@@ -46,11 +49,11 @@ I'm a programmer on the JVM (Java, Scala, **Kotlin**), mainly interested in clea
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=plastic&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=plastic&logo=spring-boot)
 
-- Microservices development in the Java ecosystem.
+- Microservices development in the Java ecosystem. Using Java and Kotlin.
 
 ### Technical Skills
 
-- Java, Scala, SpringBoot, JPA/Hibernate and other Spring modules.
+- Java, Kotlin, Scala, SpringBoot, JPA/Hibernate and other Spring modules.
 ![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=plastic&logo=apachemaven&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=plastic&logo=spring-boot)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=plastic&logo=scala&logoColor=white)
