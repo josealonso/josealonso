@@ -2,6 +2,7 @@
 
 I'm a programmer on the JVM (Java, Scala, **Kotlin**), mainly interested in clean code and **functional programming**.
 
+![Java](https://img.shields.io/badge/Java-DC322F?style=plastic&logo=kotlin&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-DC322F?style=plastic&logo=kotlin&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=plastic&logo=scala&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
@@ -12,7 +13,7 @@ I'm a programmer on the JVM (Java, Scala, **Kotlin**), mainly interested in clea
 
 ###  Connect with me
 
-- My Web Page(https://programwithjr.com)
+- My [Web Page](https://programwithjr.com)
   
 - My [Email address](mailto:jose.alonso.programmer@gmail.com)
 ![email address](https://img.shields.io/badge/Gmail-D14836?style=plastic&logo=gmail&logoColor=white)
