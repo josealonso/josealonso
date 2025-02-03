@@ -2,8 +2,8 @@
 
 I'm a programmer on the JVM (Java, Scala, **Kotlin**), mainly interested in clean code and **functional programming**.
 
-![Java](https://img.shields.io/badge/Java-DC322F?style=plastic&logo=kotlin&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-DC322F?style=plastic&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=plastic&logo=kotlin&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=plastic&logo=scala&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=plastic&logo=spring-boot)
